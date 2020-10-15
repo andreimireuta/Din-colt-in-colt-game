@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1544540679 source:d:\prog\din colt in colt 1.06\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	<cstdlib>
+
+1545575610 source:j:\din colt in colt 1.06\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	<cstdlib>
+
+1545575610 source:d:\stick\tot stick\din colt in colt 1.06\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	<cstdlib>
+
